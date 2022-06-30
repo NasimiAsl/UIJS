@@ -5,7 +5,7 @@
 
   
   
-  #TARGET : Get 2 content and share between clients
+  # TARGET : Get 2 content and share between clients
 
   1. we wanna everyone easly make the content without looking the server or domain 
   2. anyone can pick a area(s) to share their content
@@ -20,6 +20,7 @@
   6. BlindServers just Allowed Keep Content on RAM 
   
  
+ # Stream (Image-Video-Live)
 
 
  # GX Support HTML - 3D Content
