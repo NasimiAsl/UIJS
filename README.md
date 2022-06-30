@@ -3,9 +3,9 @@
 
 ~ Base  BlindServers
 
-  /*
   
-  target : Get 2 content and share between clients
+  
+  #TARGET : Get 2 content and share between clients
 
   1. we wanna everyone easly make the content without looking the server or domain 
   2. anyone can pick a area(s) to share their content
@@ -19,19 +19,20 @@
   5. BlindServers just Save the GUX core Versions 
   6. BlindServers just Allowed Keep Content on RAM 
   
+ 
 
-  */
 
-  1. Get GUX content | with core
+ # GX Support HTML - 3D Content
+
+  1. Get GX content | with core
      
      1-1. Initialize Core
-     1-2. Push content 
-
+     1-2. Push content  
 
   2. create Socket - WebRTC to Client
   3. Data Finder AI
 
-a. GUX Core
+a. GX Core
 
   1. HTML Template 
   2. Render Engine
